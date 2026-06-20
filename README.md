@@ -4,55 +4,55 @@ Click the badges below to open the notebooks directly in Google Colab:
 
 ### 📄 00-0α_Topaz_denoise.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/_dep/TpzD_output/final log/Code Archive/00-0α_Topaz_denoise.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/_dep/TpzD_output/final log/Code Archive/00-0α_Topaz_denoise.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/_dep/TpzD_output/final%20log/Code%20Archive/00-0%CE%B1_Topaz_denoise.ipynb)
 
 ---
 
 ### 📄 04_particle_extraction_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/_dep/TpzD_output/final log/Code Archive/04_particle_extraction_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/_dep/TpzD_output/final log/Code Archive/04_particle_extraction_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/_dep/TpzD_output/final%20log/Code%20Archive/04_particle_extraction_clean.ipynb)
 
 ---
 
 ### 📄 00-A_Mask_Generator_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/_dep/TpzD_output/final log/Code Archive/00-A_Mask_Generator_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/_dep/TpzD_output/final log/Code Archive/00-A_Mask_Generator_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/_dep/TpzD_output/final%20log/Code%20Archive/00-A_Mask_Generator_clean.ipynb)
 
 ---
 
 ### 📄 03_select_hyperparam_for_extraction_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/_dep/TpzD_output/final log/Code Archive/03_select_hyperparam_for_extraction_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/_dep/TpzD_output/final log/Code Archive/03_select_hyperparam_for_extraction_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/_dep/TpzD_output/final%20log/Code%20Archive/03_select_hyperparam_for_extraction_clean.ipynb)
 
 ---
 
 ### 📄 02_finetune_with_crf_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/_dep/TpzD_output/final log/Code Archive/02_finetune_with_crf_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/_dep/TpzD_output/final log/Code Archive/02_finetune_with_crf_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/_dep/TpzD_output/final%20log/Code%20Archive/02_finetune_with_crf_clean.ipynb)
 
 ---
 
 ### 📄 00-0β_conventional_denoise_CryoSegNet.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/_dep/TpzD_output/final log/Code Archive/00-0β_conventional_denoise_CryoSegNet.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/_dep/TpzD_output/final log/Code Archive/00-0β_conventional_denoise_CryoSegNet.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/_dep/TpzD_output/final%20log/Code%20Archive/00-0%CE%B2_conventional_denoise_CryoSegNet.ipynb)
 
 ---
 
 ### 📄 01_training_models_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/_dep/TpzD_output/final log/Code Archive/01_training_models_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/_dep/TpzD_output/final log/Code Archive/01_training_models_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/_dep/TpzD_output/final%20log/Code%20Archive/01_training_models_clean.ipynb)
 
 ---
 
 ### 📄 05_cryosparc.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/_dep/TpzD_output/final log/Code Archive/05_cryosparc.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/_dep/TpzD_output/final log/Code Archive/05_cryosparc.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/_dep/TpzD_output/final%20log/Code%20Archive/05_cryosparc.ipynb)
 
 ---
 
 ### 📄 00-B_Dataset preprocessing.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/_dep/TpzD_output/final log/Code Archive/00-B_Dataset preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/_dep/TpzD_output/final log/Code Archive/00-B_Dataset preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/_dep/TpzD_output/final%20log/Code%20Archive/00-B_Dataset%20preprocessing.ipynb)
 
 ---
 
@@ -88,7 +88,7 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/C_CSN_D_float_u_output/results_100
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/C_CSN_D_float_u_output/C_CSN_D_float_u_code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/C_CSN_D_float_u_output/C_CSN_D_float_u_code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/C_CSN_D_float_u_output/C_CSN_D_float_u_code_archive/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
@@ -172,37 +172,37 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/software/topaz/tutorial/01_quick_s
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_malha/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_malha/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_malha/code_archive/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
 ### 📄 04_0β_watershed_part.extract.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_malha/code_archive/04_0β_watershed_part.extract.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_malha/code_archive/04_0β_watershed_part.extract.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_malha/code_archive/04_0%CE%B2_watershed_part.extract.ipynb)
 
 ---
 
 ### 📄 00-ζ-2-histogram_of_mask_prob.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_malha/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_malha/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_malha/code_archive/00-%CE%B6-2-histogram_of_mask_prob.ipynb)
 
 ---
 
 ### 📄 03_0β_DT_watershed_select_hyperparam.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_malha/code_archive/03_0β_DT_watershed_select_hyperparam.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_malha/code_archive/03_0β_DT_watershed_select_hyperparam.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_malha/code_archive/03_0%CE%B2_DT_watershed_select_hyperparam.ipynb)
 
 ---
 
 ### 📄 03_0γ_DT_watershed_ONLY_hyper.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_malha/code_archive/03_0γ_DT_watershed_ONLY_hyper.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_malha/code_archive/03_0γ_DT_watershed_ONLY_hyper.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_malha/code_archive/03_0%CE%B3_DT_watershed_ONLY_hyper.ipynb)
 
 ---
 
 ### 📄 02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_malha/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_malha/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_malha/code_archive/02-0%CE%B1-dnzd-pairwise_finetune_with_crf_clean.ipynb)
 
 ---
 
@@ -220,13 +220,13 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_waters
 
 ### 📄 04_0γ_watershed_particle_extraction.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_malha/code_archive/04_0γ_watershed_particle_extraction.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_malha/code_archive/04_0γ_watershed_particle_extraction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_malha/code_archive/04_0%CE%B3_watershed_particle_extraction.ipynb)
 
 ---
 
 ### 📄 03_0β_watershed_select_hyper.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_malha/code_archive/03_0β_watershed_select_hyper.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_malha/code_archive/03_0β_watershed_select_hyper.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_malha/code_archive/03_0%CE%B2_watershed_select_hyper.ipynb)
 
 ---
 
@@ -244,43 +244,43 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_100_CR
 
 ### 📄 04_particle_extraction_clean (1).ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_100_CRF/code_archive/04_particle_extraction_clean (1).ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_100_CRF/code_archive/04_particle_extraction_clean (1).ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_100_CRF/code_archive/04_particle_extraction_clean%20%281%29.ipynb)
 
 ---
 
 ### 📄 03_select_hyperparam_for_extraction_clean (1).ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_100_CRF/code_archive/03_select_hyperparam_for_extraction_clean (1).ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_100_CRF/code_archive/03_select_hyperparam_for_extraction_clean (1).ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_100_CRF/code_archive/03_select_hyperparam_for_extraction_clean%20%281%29.ipynb)
 
 ---
 
 ### 📄 01_training_models_clean (1).ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_100_CRF/code_archive/01_training_models_clean (1).ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_100_CRF/code_archive/01_training_models_clean (1).ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_100_CRF/code_archive/01_training_models_clean%20%281%29.ipynb)
 
 ---
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst_raw/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst_raw/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst_raw/code_archive/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
 ### 📄 00-ζ-2-histogram_of_mask_prob.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst_raw/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst_raw/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst_raw/code_archive/00-%CE%B6-2-histogram_of_mask_prob.ipynb)
 
 ---
 
 ### 📄 02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst_raw/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst_raw/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst_raw/code_archive/02-0%CE%B1-dnzd-pairwise_finetune_with_crf_clean.ipynb)
 
 ---
 
 ### 📄 04_0α_adjusted_particle_extraction_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst_raw/code_archive/04_0α_adjusted_particle_extraction_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst_raw/code_archive/04_0α_adjusted_particle_extraction_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst_raw/code_archive/04_0%CE%B1_adjusted_particle_extraction_clean.ipynb)
 
 ---
 
@@ -298,37 +298,37 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rs
 
 ### 📄 03_0α_adjusted_select_hyperparam_for_extraction_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst_raw/code_archive/03_0α_adjusted_select_hyperparam_for_extraction_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst_raw/code_archive/03_0α_adjusted_select_hyperparam_for_extraction_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst_raw/code_archive/03_0%CE%B1_adjusted_select_hyperparam_for_extraction_clean.ipynb)
 
 ---
 
 ### 📄 04_0γ_watershed_particle_extraction_archive.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/04_0γ_watershed_particle_extraction_archive.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/04_0γ_watershed_particle_extraction_archive.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/04_0%CE%B3_watershed_particle_extraction_archive.ipynb)
 
 ---
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
 ### 📄 04_0β_watershed_part.extract.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/04_0β_watershed_part.extract.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/04_0β_watershed_part.extract.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/04_0%CE%B2_watershed_part.extract.ipynb)
 
 ---
 
 ### 📄 00-ζ-2-histogram_of_mask_prob.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/00-%CE%B6-2-histogram_of_mask_prob.ipynb)
 
 ---
 
 ### 📄 03_0ζ_DT_watershed_cluster_hyper.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/03_0ζ_DT_watershed_cluster_hyper.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/03_0ζ_DT_watershed_cluster_hyper.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/03_0%CE%B6_DT_watershed_cluster_hyper.ipynb)
 
 ---
 
@@ -340,13 +340,13 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_waters
 
 ### 📄 03_0β_DT_watershed_select_hyperparam.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/03_0β_DT_watershed_select_hyperparam.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/03_0β_DT_watershed_select_hyperparam.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/03_0%CE%B2_DT_watershed_select_hyperparam.ipynb)
 
 ---
 
 ### 📄 02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/02-0%CE%B1-dnzd-pairwise_finetune_with_crf_clean.ipynb)
 
 ---
 
@@ -364,25 +364,25 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_waters
 
 ### 📄 04_0γ_watershed_particle_extraction.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/04_0γ_watershed_particle_extraction.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/04_0γ_watershed_particle_extraction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/04_0%CE%B3_watershed_particle_extraction.ipynb)
 
 ---
 
 ### 📄 03_0β_watershed_select_hyper.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/03_0β_watershed_select_hyper.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/03_0β_watershed_select_hyper.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/03_0%CE%B2_watershed_select_hyper.ipynb)
 
 ---
 
 ### 📄 03_0γ_DT_watershed_default_ONLY_hyper.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/03_0γ_DT_watershed_default_ONLY_hyper.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/03_0γ_DT_watershed_default_ONLY_hyper.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_clustering/code_archive/03_0%CE%B3_DT_watershed_default_ONLY_hyper.ipynb)
 
 ---
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_indiv_test/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_indiv_test/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_indiv_test/code_archive/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
@@ -394,13 +394,13 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_waters
 
 ### 📄 04_0β_watershed_part.extract.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_indiv_test/code_archive/04_0β_watershed_part.extract.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_indiv_test/code_archive/04_0β_watershed_part.extract.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_indiv_test/code_archive/04_0%CE%B2_watershed_part.extract.ipynb)
 
 ---
 
 ### 📄 00-ζ-2-histogram_of_mask_prob.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_indiv_test/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_indiv_test/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_indiv_test/code_archive/00-%CE%B6-2-histogram_of_mask_prob.ipynb)
 
 ---
 
@@ -412,13 +412,13 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_waters
 
 ### 📄 03_0β_DT_watershed_select_hyperparam.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_indiv_test/code_archive/03_0β_DT_watershed_select_hyperparam.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_indiv_test/code_archive/03_0β_DT_watershed_select_hyperparam.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_indiv_test/code_archive/03_0%CE%B2_DT_watershed_select_hyperparam.ipynb)
 
 ---
 
 ### 📄 02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_indiv_test/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_indiv_test/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_indiv_test/code_archive/02-0%CE%B1-dnzd-pairwise_finetune_with_crf_clean.ipynb)
 
 ---
 
@@ -436,49 +436,49 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_waters
 
 ### 📄 04_0γ_watershed_particle_extraction.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_indiv_test/code_archive/04_0γ_watershed_particle_extraction.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_indiv_test/code_archive/04_0γ_watershed_particle_extraction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_indiv_test/code_archive/04_0%CE%B3_watershed_particle_extraction.ipynb)
 
 ---
 
 ### 📄 03_0β_watershed_select_hyper.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_indiv_test/code_archive/03_0β_watershed_select_hyper.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_indiv_test/code_archive/03_0β_watershed_select_hyper.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_indiv_test/code_archive/03_0%CE%B2_watershed_select_hyper.ipynb)
 
 ---
 
 ### 📄 03_0γ_DT_watershed_default_ONLY_hyper.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_indiv_test/code_archive/03_0γ_DT_watershed_default_ONLY_hyper.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_indiv_test/code_archive/03_0γ_DT_watershed_default_ONLY_hyper.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_indiv_test/code_archive/03_0%CE%B3_DT_watershed_default_ONLY_hyper.ipynb)
 
 ---
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst/code_archive/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
 ### 📄 00-ζ-2-histogram_of_mask_prob.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst/code_archive/00-%CE%B6-2-histogram_of_mask_prob.ipynb)
 
 ---
 
 ### 📄 02-0α-_copy_dnzd-pairwise_finetune_with_crf_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst/code_archive/02-0α-_copy_dnzd-pairwise_finetune_with_crf_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst/code_archive/02-0α-_copy_dnzd-pairwise_finetune_with_crf_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst/code_archive/02-0%CE%B1-_copy_dnzd-pairwise_finetune_with_crf_clean.ipynb)
 
 ---
 
 ### 📄 02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst/code_archive/02-0%CE%B1-dnzd-pairwise_finetune_with_crf_clean.ipynb)
 
 ---
 
 ### 📄 04_0α_adjusted_particle_extraction_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst/code_archive/04_0α_adjusted_particle_extraction_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst/code_archive/04_0α_adjusted_particle_extraction_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst/code_archive/04_0%CE%B1_adjusted_particle_extraction_clean.ipynb)
 
 ---
 
@@ -496,13 +496,13 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rs
 
 ### 📄 03_0α_adjusted_select_hyperparam_for_extraction_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst/code_archive/03_0α_adjusted_select_hyperparam_for_extraction_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst/code_archive/03_0α_adjusted_select_hyperparam_for_extraction_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/weight_test_rst/code_archive/03_0%CE%B1_adjusted_select_hyperparam_for_extraction_clean.ipynb)
 
 ---
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
@@ -514,19 +514,19 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/re
 
 ### 📄 06_0β_angle_orientation_plot.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/06_0β_angle_orientation_plot.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/06_0β_angle_orientation_plot.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/06_0%CE%B2_angle_orientation_plot.ipynb)
 
 ---
 
 ### 📄 04_0β_watershed_part.extract.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/04_0β_watershed_part.extract.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/04_0β_watershed_part.extract.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/04_0%CE%B2_watershed_part.extract.ipynb)
 
 ---
 
 ### 📄 00-ζ-2-histogram_of_mask_prob.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/00-%CE%B6-2-histogram_of_mask_prob.ipynb)
 
 ---
 
@@ -538,13 +538,13 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/re
 
 ### 📄 04_0γ_particle_extraction.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/04_0γ_particle_extraction.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/04_0γ_particle_extraction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/04_0%CE%B3_particle_extraction.ipynb)
 
 ---
 
 ### 📄 02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/02-0%CE%B1-dnzd-pairwise_finetune_with_crf_clean.ipynb)
 
 ---
 
@@ -568,13 +568,13 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/re
 
 ### 📄 04_0γ_watershed_particle_extraction.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/04_0γ_watershed_particle_extraction.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/04_0γ_watershed_particle_extraction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/04_0%CE%B3_watershed_particle_extraction.ipynb)
 
 ---
 
 ### 📄 03_0Δ_DT_watershed_2_prob.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/03_0Δ_DT_watershed_2_prob.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/03_0Δ_DT_watershed_2_prob.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/03_0%CE%94_DT_watershed_2_prob.ipynb)
 
 ---
 
@@ -586,25 +586,25 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/re
 
 ### 📄 03_0β_watershed_select_hyper.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/03_0β_watershed_select_hyper.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/03_0β_watershed_select_hyper.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/03_0%CE%B2_watershed_select_hyper.ipynb)
 
 ---
 
 ### 📄 03_0γ_DT_watershed_default_ONLY_hyper.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/03_0γ_DT_watershed_default_ONLY_hyper.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/03_0γ_DT_watershed_default_ONLY_hyper.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/03_0%CE%B3_DT_watershed_default_ONLY_hyper.ipynb)
 
 ---
 
 ### 📄 06_0α_angle_orientation_plot.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/06_0α_angle_orientation_plot.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/06_0α_angle_orientation_plot.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/06_0%CE%B1_angle_orientation_plot.ipynb)
 
 ---
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
@@ -616,19 +616,19 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/re
 
 ### 📄 06_0β_angle_orientation_plot.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/06_0β_angle_orientation_plot.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/06_0β_angle_orientation_plot.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/06_0%CE%B2_angle_orientation_plot.ipynb)
 
 ---
 
 ### 📄 04_0β_watershed_part.extract.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/04_0β_watershed_part.extract.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/04_0β_watershed_part.extract.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/04_0%CE%B2_watershed_part.extract.ipynb)
 
 ---
 
 ### 📄 00-ζ-2-histogram_of_mask_prob.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/00-%CE%B6-2-histogram_of_mask_prob.ipynb)
 
 ---
 
@@ -640,13 +640,13 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/re
 
 ### 📄 04_0γ_particle_extraction.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/04_0γ_particle_extraction.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/04_0γ_particle_extraction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/04_0%CE%B3_particle_extraction.ipynb)
 
 ---
 
 ### 📄 02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/02-0%CE%B1-dnzd-pairwise_finetune_with_crf_clean.ipynb)
 
 ---
 
@@ -670,13 +670,13 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/re
 
 ### 📄 04_0γ_watershed_particle_extraction.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/04_0γ_watershed_particle_extraction.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/04_0γ_watershed_particle_extraction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/04_0%CE%B3_watershed_particle_extraction.ipynb)
 
 ---
 
 ### 📄 03_0Δ_DT_watershed_2_prob.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/03_0Δ_DT_watershed_2_prob.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/03_0Δ_DT_watershed_2_prob.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/03_0%CE%94_DT_watershed_2_prob.ipynb)
 
 ---
 
@@ -688,43 +688,43 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/re
 
 ### 📄 03_0β_watershed_select_hyper.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/03_0β_watershed_select_hyper.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/03_0β_watershed_select_hyper.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/03_0%CE%B2_watershed_select_hyper.ipynb)
 
 ---
 
 ### 📄 03_0γ_DT_watershed_default_ONLY_hyper.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/03_0γ_DT_watershed_default_ONLY_hyper.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/03_0γ_DT_watershed_default_ONLY_hyper.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/03_0%CE%B3_DT_watershed_default_ONLY_hyper.ipynb)
 
 ---
 
 ### 📄 06_0α_angle_orientation_plot.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/06_0α_angle_orientation_plot.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/06_0α_angle_orientation_plot.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/06_0%CE%B1_angle_orientation_plot.ipynb)
 
 ---
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_with_denoise_reference_CRF/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_with_denoise_reference_CRF/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_with_denoise_reference_CRF/code_archive/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
 ### 📄 00-ζ-2-histogram_of_mask_prob.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_with_denoise_reference_CRF/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_with_denoise_reference_CRF/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_with_denoise_reference_CRF/code_archive/00-%CE%B6-2-histogram_of_mask_prob.ipynb)
 
 ---
 
 ### 📄 02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_with_denoise_reference_CRF/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_with_denoise_reference_CRF/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_with_denoise_reference_CRF/code_archive/02-0%CE%B1-dnzd-pairwise_finetune_with_crf_clean.ipynb)
 
 ---
 
 ### 📄 04_0α_adjusted_particle_extraction_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_with_denoise_reference_CRF/code_archive/04_0α_adjusted_particle_extraction_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_with_denoise_reference_CRF/code_archive/04_0α_adjusted_particle_extraction_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_with_denoise_reference_CRF/code_archive/04_0%CE%B1_adjusted_particle_extraction_clean.ipynb)
 
 ---
 
@@ -742,13 +742,13 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_with_d
 
 ### 📄 03_0α_adjusted_select_hyperparam_for_extraction_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_with_denoise_reference_CRF/code_archive/03_0α_adjusted_select_hyperparam_for_extraction_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_with_denoise_reference_CRF/code_archive/03_0α_adjusted_select_hyperparam_for_extraction_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_with_denoise_reference_CRF/code_archive/03_0%CE%B1_adjusted_select_hyperparam_for_extraction_clean.ipynb)
 
 ---
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
@@ -760,19 +760,19 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_waters
 
 ### 📄 06_0β_angle_orientation_plot.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/06_0β_angle_orientation_plot.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/06_0β_angle_orientation_plot.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/06_0%CE%B2_angle_orientation_plot.ipynb)
 
 ---
 
 ### 📄 04_0β_watershed_part.extract.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/04_0β_watershed_part.extract.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/04_0β_watershed_part.extract.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/04_0%CE%B2_watershed_part.extract.ipynb)
 
 ---
 
 ### 📄 00-ζ-2-histogram_of_mask_prob.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/00-%CE%B6-2-histogram_of_mask_prob.ipynb)
 
 ---
 
@@ -784,13 +784,13 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_waters
 
 ### 📄 04_0γ_particle_extraction.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/04_0γ_particle_extraction.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/04_0γ_particle_extraction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/04_0%CE%B3_particle_extraction.ipynb)
 
 ---
 
 ### 📄 02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/02-0%CE%B1-dnzd-pairwise_finetune_with_crf_clean.ipynb)
 
 ---
 
@@ -814,13 +814,13 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_waters
 
 ### 📄 04_0γ_watershed_particle_extraction.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/04_0γ_watershed_particle_extraction.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/04_0γ_watershed_particle_extraction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/04_0%CE%B3_watershed_particle_extraction.ipynb)
 
 ---
 
 ### 📄 03_0Δ_DT_watershed_2_prob.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/03_0Δ_DT_watershed_2_prob.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/03_0Δ_DT_watershed_2_prob.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/03_0%CE%94_DT_watershed_2_prob.ipynb)
 
 ---
 
@@ -832,25 +832,25 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_waters
 
 ### 📄 03_0β_watershed_select_hyper.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/03_0β_watershed_select_hyper.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/03_0β_watershed_select_hyper.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/03_0%CE%B2_watershed_select_hyper.ipynb)
 
 ---
 
 ### 📄 03_0γ_DT_watershed_default_ONLY_hyper.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/03_0γ_DT_watershed_default_ONLY_hyper.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/03_0γ_DT_watershed_default_ONLY_hyper.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/03_0%CE%B3_DT_watershed_default_ONLY_hyper.ipynb)
 
 ---
 
 ### 📄 06_0α_angle_orientation_plot.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/06_0α_angle_orientation_plot.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/06_0α_angle_orientation_plot.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_with_01_model_map/code_archive/06_0%CE%B1_angle_orientation_plot.ipynb)
 
 ---
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
@@ -862,19 +862,19 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_waters
 
 ### 📄 06_0β_angle_orientation_plot.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/06_0β_angle_orientation_plot.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/06_0β_angle_orientation_plot.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/06_0%CE%B2_angle_orientation_plot.ipynb)
 
 ---
 
 ### 📄 04_0β_watershed_part.extract.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/04_0β_watershed_part.extract.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/04_0β_watershed_part.extract.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/04_0%CE%B2_watershed_part.extract.ipynb)
 
 ---
 
 ### 📄 00-ζ-2-histogram_of_mask_prob.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/00-%CE%B6-2-histogram_of_mask_prob.ipynb)
 
 ---
 
@@ -886,13 +886,13 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_waters
 
 ### 📄 03_0β_DT_watershed_select_hyperparam.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/03_0β_DT_watershed_select_hyperparam.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/03_0β_DT_watershed_select_hyperparam.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/03_0%CE%B2_DT_watershed_select_hyperparam.ipynb)
 
 ---
 
 ### 📄 02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/02-0%CE%B1-dnzd-pairwise_finetune_with_crf_clean.ipynb)
 
 ---
 
@@ -916,37 +916,37 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_waters
 
 ### 📄 04_0γ_watershed_particle_extraction.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/04_0γ_watershed_particle_extraction.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/04_0γ_watershed_particle_extraction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/04_0%CE%B3_watershed_particle_extraction.ipynb)
 
 ---
 
 ### 📄 03_0β_watershed_select_hyper.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/03_0β_watershed_select_hyper.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/03_0β_watershed_select_hyper.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/03_0%CE%B2_watershed_select_hyper.ipynb)
 
 ---
 
 ### 📄 03_0γ_DT_watershed_default_ONLY_hyper.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/03_0γ_DT_watershed_default_ONLY_hyper.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/03_0γ_DT_watershed_default_ONLY_hyper.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/03_0%CE%B3_DT_watershed_default_ONLY_hyper.ipynb)
 
 ---
 
 ### 📄 06_0α_angle_orientation_plot.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/06_0α_angle_orientation_plot.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/06_0α_angle_orientation_plot.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_angles/code_archive/06_0%CE%B1_angle_orientation_plot.ipynb)
 
 ---
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_1/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_1/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_1/code_archive/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
 ### 📄 02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_1/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_1/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_1/code_archive/02-0%CE%B1-dnzd-pairwise_finetune_with_crf_clean.ipynb)
 
 ---
 
@@ -958,19 +958,19 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPL
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
 ### 📄 00-ζ-2-histogram_of_mask_prob.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/00-%CE%B6-2-histogram_of_mask_prob.ipynb)
 
 ---
 
 ### 📄 02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/02-0%CE%B1-dnzd-pairwise_finetune_with_crf_clean.ipynb)
 
 ---
 
@@ -982,31 +982,31 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPL
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
 ### 📄 00-ζ-2-histogram_of_mask_prob.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/00-%CE%B6-2-histogram_of_mask_prob.ipynb)
 
 ---
 
 ### 📄 02-0α-_copy_dnzd-pairwise_finetune_with_crf_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/02-0α-_copy_dnzd-pairwise_finetune_with_crf_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/02-0α-_copy_dnzd-pairwise_finetune_with_crf_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/02-0%CE%B1-_copy_dnzd-pairwise_finetune_with_crf_clean.ipynb)
 
 ---
 
 ### 📄 02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/02-0%CE%B1-dnzd-pairwise_finetune_with_crf_clean.ipynb)
 
 ---
 
 ### 📄 04_0α_adjusted_particle_extraction_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/04_0α_adjusted_particle_extraction_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/04_0α_adjusted_particle_extraction_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/04_0%CE%B1_adjusted_particle_extraction_clean.ipynb)
 
 ---
 
@@ -1024,7 +1024,7 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPL
 
 ### 📄 03_0α_adjusted_select_hyperparam_for_extraction_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/03_0α_adjusted_select_hyperparam_for_extraction_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/03_0α_adjusted_select_hyperparam_for_extraction_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/03_0%CE%B1_adjusted_select_hyperparam_for_extraction_clean.ipynb)
 
 ---
 
@@ -1060,7 +1060,7 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_50_CRF
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
@@ -1072,19 +1072,19 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_waters
 
 ### 📄 06_0β_angle_orientation_plot.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/06_0β_angle_orientation_plot.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/06_0β_angle_orientation_plot.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/06_0%CE%B2_angle_orientation_plot.ipynb)
 
 ---
 
 ### 📄 04_0β_watershed_part.extract.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/04_0β_watershed_part.extract.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/04_0β_watershed_part.extract.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/04_0%CE%B2_watershed_part.extract.ipynb)
 
 ---
 
 ### 📄 00-ζ-2-histogram_of_mask_prob.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/00-%CE%B6-2-histogram_of_mask_prob.ipynb)
 
 ---
 
@@ -1096,13 +1096,13 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_waters
 
 ### 📄 04_0γ_particle_extraction.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/04_0γ_particle_extraction.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/04_0γ_particle_extraction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/04_0%CE%B3_particle_extraction.ipynb)
 
 ---
 
 ### 📄 02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/02-0%CE%B1-dnzd-pairwise_finetune_with_crf_clean.ipynb)
 
 ---
 
@@ -1126,7 +1126,7 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_waters
 
 ### 📄 03_0Δ_DT_watershed_2_prob.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/03_0Δ_DT_watershed_2_prob.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/03_0Δ_DT_watershed_2_prob.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/03_0%CE%94_DT_watershed_2_prob.ipynb)
 
 ---
 
@@ -1138,25 +1138,25 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_waters
 
 ### 📄 03_0β_watershed_select_hyper.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/03_0β_watershed_select_hyper.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/03_0β_watershed_select_hyper.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/03_0%CE%B2_watershed_select_hyper.ipynb)
 
 ---
 
 ### 📄 03_0γ_DT_watershed_default_ONLY_hyper.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/03_0γ_DT_watershed_default_ONLY_hyper.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/03_0γ_DT_watershed_default_ONLY_hyper.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/03_0%CE%B3_DT_watershed_default_ONLY_hyper.ipynb)
 
 ---
 
 ### 📄 06_0α_angle_orientation_plot.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/06_0α_angle_orientation_plot.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/06_0α_angle_orientation_plot.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/06_0%CE%B1_angle_orientation_plot.ipynb)
 
 ---
 
 ### 📄 04_0γ_watershed_particle_extraction_depr.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/04_0γ_watershed_particle_extraction_depr.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/04_0γ_watershed_particle_extraction_depr.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/04_0%CE%B3_watershed_particle_extraction_depr.ipynb)
 
 ---
 
@@ -1192,37 +1192,37 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_100_ES
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_test/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_test/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_test/code_archive/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
 ### 📄 04_0β_watershed_part.extract.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_test/code_archive/04_0β_watershed_part.extract.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_test/code_archive/04_0β_watershed_part.extract.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_test/code_archive/04_0%CE%B2_watershed_part.extract.ipynb)
 
 ---
 
 ### 📄 00-ζ-2-histogram_of_mask_prob.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_test/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_test/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_test/code_archive/00-%CE%B6-2-histogram_of_mask_prob.ipynb)
 
 ---
 
 ### 📄 03_0β_DT_watershed_select_hyperparam.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_test/code_archive/03_0β_DT_watershed_select_hyperparam.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_test/code_archive/03_0β_DT_watershed_select_hyperparam.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_test/code_archive/03_0%CE%B2_DT_watershed_select_hyperparam.ipynb)
 
 ---
 
 ### 📄 03_0γ_DT_watershed_ONLY_hyper.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_test/code_archive/03_0γ_DT_watershed_ONLY_hyper.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_test/code_archive/03_0γ_DT_watershed_ONLY_hyper.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_test/code_archive/03_0%CE%B3_DT_watershed_ONLY_hyper.ipynb)
 
 ---
 
 ### 📄 02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_test/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_test/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_test/code_archive/02-0%CE%B1-dnzd-pairwise_finetune_with_crf_clean.ipynb)
 
 ---
 
@@ -1240,25 +1240,25 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_waters
 
 ### 📄 04_0γ_watershed_particle_extraction.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_test/code_archive/04_0γ_watershed_particle_extraction.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_test/code_archive/04_0γ_watershed_particle_extraction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_test/code_archive/04_0%CE%B3_watershed_particle_extraction.ipynb)
 
 ---
 
 ### 📄 03_0β_watershed_select_hyper.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_test/code_archive/03_0β_watershed_select_hyper.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_test/code_archive/03_0β_watershed_select_hyper.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_watershed_test/code_archive/03_0%CE%B2_watershed_select_hyper.ipynb)
 
 ---
 
 ### 📄 03_0κ_select_hyperparam_circularity_MAD.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/03_0κ_select_hyperparam_circularity_MAD.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/03_0κ_select_hyperparam_circularity_MAD.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/03_0%CE%BA_select_hyperparam_circularity_MAD.ipynb)
 
 ---
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
@@ -1270,13 +1270,13 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_p
 
 ### 📄 06_0β_angle_orientation_plot.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/06_0β_angle_orientation_plot.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/06_0β_angle_orientation_plot.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/06_0%CE%B2_angle_orientation_plot.ipynb)
 
 ---
 
 ### 📄 00-ζ-2-histogram_of_mask_prob.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/00-%CE%B6-2-histogram_of_mask_prob.ipynb)
 
 ---
 
@@ -1288,13 +1288,13 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_p
 
 ### 📄 04_0γ_particle_extraction.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/04_0γ_particle_extraction.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/04_0γ_particle_extraction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/04_0%CE%B3_particle_extraction.ipynb)
 
 ---
 
 ### 📄 02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/02-0%CE%B1-dnzd-pairwise_finetune_with_crf_clean.ipynb)
 
 ---
 
@@ -1318,43 +1318,43 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_p
 
 ### 📄 04_0γ_watershed_particle_extraction.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/04_0γ_watershed_particle_extraction.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/04_0γ_watershed_particle_extraction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/04_0%CE%B3_watershed_particle_extraction.ipynb)
 
 ---
 
 ### 📄 03_0Δ_DT_watershed_2_prob.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/03_0Δ_DT_watershed_2_prob.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/03_0Δ_DT_watershed_2_prob.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/03_0%CE%94_DT_watershed_2_prob.ipynb)
 
 ---
 
 ### 📄 03_0β_watershed_select_hyper.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/03_0β_watershed_select_hyper.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/03_0β_watershed_select_hyper.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/03_0%CE%B2_watershed_select_hyper.ipynb)
 
 ---
 
 ### 📄 03_0γ_DT_watershed_default_ONLY_hyper.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/03_0γ_DT_watershed_default_ONLY_hyper.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/03_0γ_DT_watershed_default_ONLY_hyper.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/03_0%CE%B3_DT_watershed_default_ONLY_hyper.ipynb)
 
 ---
 
 ### 📄 04_0κ_particle_extract_circularity_MAD.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/04_0κ_particle_extract_circularity_MAD.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/04_0κ_particle_extract_circularity_MAD.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/04_0%CE%BA_particle_extract_circularity_MAD.ipynb)
 
 ---
 
 ### 📄 06_0α_angle_orientation_plot.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/06_0α_angle_orientation_plot.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/06_0α_angle_orientation_plot.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/06_0%CE%B1_angle_orientation_plot.ipynb)
 
 ---
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/raw_user_output_rst_code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/raw_user_output_rst_code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/raw_user_output_rst_code_archive/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
@@ -1384,25 +1384,25 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/raw_user_output_rst/raw_user_outpu
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz/code_archive/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
 ### 📄 00-ζ-2-histogram_of_mask_prob.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz/code_archive/00-%CE%B6-2-histogram_of_mask_prob.ipynb)
 
 ---
 
 ### 📄 02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz/code_archive/02-0%CE%B1-dnzd-pairwise_finetune_with_crf_clean.ipynb)
 
 ---
 
 ### 📄 04_0α_adjusted_particle_extraction_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz/code_archive/04_0α_adjusted_particle_extraction_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz/code_archive/04_0α_adjusted_particle_extraction_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz/code_archive/04_0%CE%B1_adjusted_particle_extraction_clean.ipynb)
 
 ---
 
@@ -1420,13 +1420,13 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_t
 
 ### 📄 03_0α_adjusted_select_hyperparam_for_extraction_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz/code_archive/03_0α_adjusted_select_hyperparam_for_extraction_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz/code_archive/03_0α_adjusted_select_hyperparam_for_extraction_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz/code_archive/03_0%CE%B1_adjusted_select_hyperparam_for_extraction_clean.ipynb)
 
 ---
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/02_50_extend_100_crf_rst/code_archieve/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/02_50_extend_100_crf_rst/code_archieve/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/02_50_extend_100_crf_rst/code_archieve/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
@@ -1462,7 +1462,7 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/02_50_extend_
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/results_100_CRF/code_archieve/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/results_100_CRF/code_archieve/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/results_100_CRF/code_archieve/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
@@ -1498,25 +1498,25 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/results_100_C
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz_50/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz_50/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz_50/code_archive/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
 ### 📄 00-ζ-2-histogram_of_mask_prob.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz_50/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz_50/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz_50/code_archive/00-%CE%B6-2-histogram_of_mask_prob.ipynb)
 
 ---
 
 ### 📄 02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz_50/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz_50/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz_50/code_archive/02-0%CE%B1-dnzd-pairwise_finetune_with_crf_clean.ipynb)
 
 ---
 
 ### 📄 04_0α_adjusted_particle_extraction_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz_50/code_archive/04_0α_adjusted_particle_extraction_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz_50/code_archive/04_0α_adjusted_particle_extraction_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz_50/code_archive/04_0%CE%B1_adjusted_particle_extraction_clean.ipynb)
 
 ---
 
@@ -1534,37 +1534,37 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_t
 
 ### 📄 03_0α_adjusted_select_hyperparam_for_extraction_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz_50/code_archive/03_0α_adjusted_select_hyperparam_for_extraction_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz_50/code_archive/03_0α_adjusted_select_hyperparam_for_extraction_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/weight_test_tpz_50/code_archive/03_0%CE%B1_adjusted_select_hyperparam_for_extraction_clean.ipynb)
 
 ---
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_1/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_1/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_1/code_archive/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
 ### 📄 00-ζ-2-histogram_of_mask_prob.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_1/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_1/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_1/code_archive/00-%CE%B6-2-histogram_of_mask_prob.ipynb)
 
 ---
 
 ### 📄 02-0α-_copy_dnzd-pairwise_finetune_with_crf_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_1/code_archive/02-0α-_copy_dnzd-pairwise_finetune_with_crf_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_1/code_archive/02-0α-_copy_dnzd-pairwise_finetune_with_crf_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_1/code_archive/02-0%CE%B1-_copy_dnzd-pairwise_finetune_with_crf_clean.ipynb)
 
 ---
 
 ### 📄 02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_1/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_1/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_1/code_archive/02-0%CE%B1-dnzd-pairwise_finetune_with_crf_clean.ipynb)
 
 ---
 
 ### 📄 04_0α_adjusted_particle_extraction_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_1/code_archive/04_0α_adjusted_particle_extraction_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_1/code_archive/04_0α_adjusted_particle_extraction_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_1/code_archive/04_0%CE%B1_adjusted_particle_extraction_clean.ipynb)
 
 ---
 
@@ -1582,37 +1582,37 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIP
 
 ### 📄 03_0α_adjusted_select_hyperparam_for_extraction_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_1/code_archive/03_0α_adjusted_select_hyperparam_for_extraction_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_1/code_archive/03_0α_adjusted_select_hyperparam_for_extraction_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_1/code_archive/03_0%CE%B1_adjusted_select_hyperparam_for_extraction_clean.ipynb)
 
 ---
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
 ### 📄 00-ζ-2-histogram_of_mask_prob.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/00-%CE%B6-2-histogram_of_mask_prob.ipynb)
 
 ---
 
 ### 📄 02-0α-_copy_dnzd-pairwise_finetune_with_crf_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/02-0α-_copy_dnzd-pairwise_finetune_with_crf_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/02-0α-_copy_dnzd-pairwise_finetune_with_crf_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/02-0%CE%B1-_copy_dnzd-pairwise_finetune_with_crf_clean.ipynb)
 
 ---
 
 ### 📄 02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/02-0%CE%B1-dnzd-pairwise_finetune_with_crf_clean.ipynb)
 
 ---
 
 ### 📄 04_0α_adjusted_particle_extraction_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/04_0α_adjusted_particle_extraction_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/04_0α_adjusted_particle_extraction_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/04_0%CE%B1_adjusted_particle_extraction_clean.ipynb)
 
 ---
 
@@ -1630,37 +1630,37 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIP
 
 ### 📄 03_0α_adjusted_select_hyperparam_for_extraction_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/03_0α_adjusted_select_hyperparam_for_extraction_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/03_0α_adjusted_select_hyperparam_for_extraction_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/03_0%CE%B1_adjusted_select_hyperparam_for_extraction_clean.ipynb)
 
 ---
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
 ### 📄 00-ζ-2-histogram_of_mask_prob.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/00-ζ-2-histogram_of_mask_prob.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/00-%CE%B6-2-histogram_of_mask_prob.ipynb)
 
 ---
 
 ### 📄 02-0α-_copy_dnzd-pairwise_finetune_with_crf_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/02-0α-_copy_dnzd-pairwise_finetune_with_crf_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/02-0α-_copy_dnzd-pairwise_finetune_with_crf_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/02-0%CE%B1-_copy_dnzd-pairwise_finetune_with_crf_clean.ipynb)
 
 ---
 
 ### 📄 02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/02-0%CE%B1-dnzd-pairwise_finetune_with_crf_clean.ipynb)
 
 ---
 
 ### 📄 04_0α_adjusted_particle_extraction_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/04_0α_adjusted_particle_extraction_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/04_0α_adjusted_particle_extraction_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/04_0%CE%B1_adjusted_particle_extraction_clean.ipynb)
 
 ---
 
@@ -1678,13 +1678,13 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIP
 
 ### 📄 03_0α_adjusted_select_hyperparam_for_extraction_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/03_0α_adjusted_select_hyperparam_for_extraction_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/03_0α_adjusted_select_hyperparam_for_extraction_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/03_0%CE%B1_adjusted_select_hyperparam_for_extraction_clean.ipynb)
 
 ---
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/results_50_CRF/code_archieve/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/results_50_CRF/code_archieve/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/results_50_CRF/code_archieve/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
@@ -1720,7 +1720,7 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/results_50_CR
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/results_100_ESPatience_50_CRF/code_archieve/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/results_100_ESPatience_50_CRF/code_archieve/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/results_100_ESPatience_50_CRF/code_archieve/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
@@ -1756,37 +1756,37 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/results_100_E
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/code archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/code archive/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/code%20archive/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
 ### 📄 05-01_cryosparc_auto.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/code archive/05-01_cryosparc_auto.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/code archive/05-01_cryosparc_auto.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/code%20archive/05-01_cryosparc_auto.ipynb)
 
 ---
 
 ### 📄 04_particle_extraction_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/code archive/04_particle_extraction_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/code archive/04_particle_extraction_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/code%20archive/04_particle_extraction_clean.ipynb)
 
 ---
 
 ### 📄 03_select_hyperparam_for_extraction_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/code archive/03_select_hyperparam_for_extraction_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/code archive/03_select_hyperparam_for_extraction_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/code%20archive/03_select_hyperparam_for_extraction_clean.ipynb)
 
 ---
 
 ### 📄 02_finetune_with_crf_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/code archive/02_finetune_with_crf_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/code archive/02_finetune_with_crf_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/code%20archive/02_finetune_with_crf_clean.ipynb)
 
 ---
 
 ### 📄 01_training_models_clean.ipynb
 Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/code archive/01_training_models_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/code archive/01_training_models_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Test_on_10017/Test_0_9-8_9-30_EM_10017/time_test_output_tpz/code%20archive/01_training_models_clean.ipynb)
 
 ---
 
@@ -1810,13 +1810,13 @@ Path: `Test_on_10017/Test_0_9-8_9-30_EM_10017/TpzD_default_output/Archieve_CDCRF
 
 ### 📄 00-0α_Topaz_denoise.ipynb
 Path: `Latest_Code/00-0α_Topaz_denoise.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Latest_Code/00-0α_Topaz_denoise.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Latest_Code/00-0%CE%B1_Topaz_denoise.ipynb)
 
 ---
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `Latest_Code/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Latest_Code/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Latest_Code/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
@@ -1834,7 +1834,7 @@ Path: `Latest_Code/04_particle_extraction_clean.ipynb`
 
 ### 📄 00-ζ-2-histogram_of_mask_prob.ipynb
 Path: `Latest_Code/00-ζ-2-histogram_of_mask_prob.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Latest_Code/00-ζ-2-histogram_of_mask_prob.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Latest_Code/00-%CE%B6-2-histogram_of_mask_prob.ipynb)
 
 ---
 
@@ -1846,7 +1846,7 @@ Path: `Latest_Code/03_select_hyperparam_for_extraction_clean.ipynb`
 
 ### 📄 05_0α_cryosparc_extract_angle_(for do analysis on shape metrics).ipynb
 Path: `Latest_Code/05_0α_cryosparc_extract_angle_(for do analysis on shape metrics).ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Latest_Code/05_0α_cryosparc_extract_angle_(for do analysis on shape metrics).ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Latest_Code/05_0%CE%B1_cryosparc_extract_angle_%28for%20do%20analysis%20on%20shape%20metrics%29.ipynb)
 
 ---
 
@@ -1858,7 +1858,7 @@ Path: `Latest_Code/02_finetune_with_crf_clean.ipynb`
 
 ### 📄 00-0β_conventional_denoise_CryoSegNet.ipynb
 Path: `Latest_Code/00-0β_conventional_denoise_CryoSegNet.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Latest_Code/00-0β_conventional_denoise_CryoSegNet.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/Latest_Code/00-0%CE%B2_conventional_denoise_CryoSegNet.ipynb)
 
 ---
 
@@ -1894,13 +1894,13 @@ Path: `01_CRISP_run/cryo_spark_worker.ipynb`
 
 ### 📄 00-0α_Topaz_denoise.ipynb
 Path: `01_CRISP_run/notebook/00-0α_Topaz_denoise.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/01_CRISP_run/notebook/00-0α_Topaz_denoise.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/01_CRISP_run/notebook/00-0%CE%B1_Topaz_denoise.ipynb)
 
 ---
 
 ### 📄 00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb
 Path: `01_CRISP_run/notebook/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/01_CRISP_run/notebook/00-0γ_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/01_CRISP_run/notebook/00-0%CE%B3_For_Denoized_mrc_Topaz_Preprocessing.ipynb)
 
 ---
 
@@ -1924,7 +1924,7 @@ Path: `01_CRISP_run/notebook/00-A_Mask_Generator_clean.ipynb`
 
 ### 📄 00-ζ-2-histogram_of_mask_prob.ipynb
 Path: `01_CRISP_run/notebook/00-ζ-2-histogram_of_mask_prob.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/01_CRISP_run/notebook/00-ζ-2-histogram_of_mask_prob.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/01_CRISP_run/notebook/00-%CE%B6-2-histogram_of_mask_prob.ipynb)
 
 ---
 
@@ -1942,13 +1942,13 @@ Path: `01_CRISP_run/notebook/02_finetune_with_crf_clean.ipynb`
 
 ### 📄 00-0β_conventional_denoise_CryoSegNet.ipynb
 Path: `01_CRISP_run/notebook/00-0β_conventional_denoise_CryoSegNet.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/01_CRISP_run/notebook/00-0β_conventional_denoise_CryoSegNet.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/01_CRISP_run/notebook/00-0%CE%B2_conventional_denoise_CryoSegNet.ipynb)
 
 ---
 
 ### 📄 02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb
 Path: `01_CRISP_run/notebook/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/01_CRISP_run/notebook/02-0α-dnzd-pairwise_finetune_with_crf_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/01_CRISP_run/notebook/02-0%CE%B1-dnzd-pairwise_finetune_with_crf_clean.ipynb)
 
 ---
 
@@ -1978,7 +1978,7 @@ Path: `01_CRISP_run/notebook/05_cryosparc.ipynb`
 
 ### 📄 00-ζ-mask_prediction_test_for_different_models.ipynb
 Path: `01_CRISP_run/notebook/00-ζ-mask_prediction_test_for_different_models.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/01_CRISP_run/notebook/00-ζ-mask_prediction_test_for_different_models.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/01_CRISP_run/notebook/00-%CE%B6-mask_prediction_test_for_different_models.ipynb)
 
 ---
 
@@ -1990,13 +1990,13 @@ Path: `01_CRISP_run/notebook/00-A-01_Mask_Generator_clean_auto.ipynb`
 
 ### 📄 00-B_Dataset preprocessing.ipynb
 Path: `01_CRISP_run/notebook/00-B_Dataset preprocessing.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/01_CRISP_run/notebook/00-B_Dataset preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/01_CRISP_run/notebook/00-B_Dataset%20preprocessing.ipynb)
 
 ---
 
 ### 📄 00-0β_conventional_denoise_CryoSegNet_float32.ipynb
 Path: `01_CRISP_run/notebook/dep/00-0β_conventional_denoise_CryoSegNet_float32.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/01_CRISP_run/notebook/dep/00-0β_conventional_denoise_CryoSegNet_float32.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/01_CRISP_run/notebook/dep/00-0%CE%B2_conventional_denoise_CryoSegNet_float32.ipynb)
 
 ---
 
@@ -2008,7 +2008,7 @@ Path: `01_CRISP_run/notebook/dep/00-A_Mask_Generator_clean.ipynb`
 
 ### 📄 00-0β_conventional_denoise_cuda_CSN_float32.ipynb
 Path: `01_CRISP_run/notebook/dep/00-0β_conventional_denoise_cuda_CSN_float32.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/01_CRISP_run/notebook/dep/00-0β_conventional_denoise_cuda_CSN_float32.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/01_CRISP_run/notebook/dep/00-0%CE%B2_conventional_denoise_cuda_CSN_float32.ipynb)
 
 ---
 
@@ -2026,7 +2026,7 @@ Path: `01_CRISP_run/notebook/dep/00-00_SNR_evaluation_opt.ipynb`
 
 ### 📄 00-A_Mask_Generator_clean (1).ipynb
 Path: `01_CRISP_run/notebook/dep/00-A_Mask_Generator_clean (1).ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/01_CRISP_run/notebook/dep/00-A_Mask_Generator_clean (1).ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRT-0/Cryo_Project_Test/blob/main/01_CRISP_run/notebook/dep/00-A_Mask_Generator_clean%20%281%29.ipynb)
 
 ---
 
