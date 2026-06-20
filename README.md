@@ -30,7 +30,6 @@
 - [Latest_Code/](#latest-code)
 - [01_CRISP_run/](#01-crisp-run) ([root](#01-crisp-run-root), [notebook/](#01-crisp-run-notebook), [notebook/dep/](#01-crisp-run-notebook-dep), [simulation/](#01-crisp-run-simulation))
 - [Test_on_10017/...](#test-on-10017)
-  - [software/topaz/tutorial/](#software-topaz-tutorial)
   - [TpzD_default_output/](#tpzd-default-output)
   - [_dep/](#dep)
   - [time_test_output_tpz/](#time-test-output-tpz) — has its own layout below
@@ -47,7 +46,10 @@ The latest, organized version of the code — if you just want the current pipel
 
 <a id="latest-code-files"></a>
 
-**`Latest_Code/`** — Current/cleaned pipeline notebooks.
+**`Latest_Code/`**
+
+
+Current/cleaned pipeline notebooks.
 
 <details open>
 <summary>13 notebook(s) — click to expand</summary>
@@ -74,11 +76,14 @@ The latest, organized version of the code — if you just want the current pipel
 <a id="01-crisp-run"></a>
 ## `01_CRISP_run/` — Local CRISP Working Copy
 
-Mostly mirrors CRISP on GitHub. The difference is in the notebooks: this copy adds denoise preprocessing, SNR evaluation, a default algorithm, and click-free automation.
+A local working copy that is mostly the same as CRISP on GitHub. The difference is in the notebooks: this copy stores newly made templates of the code, including denoise preprocessing, SNR value, a default algorithm, and automation that runs without manual clicking.
 
 <a id="01-crisp-run-root"></a>
 
-**`01_CRISP_run/ (root)`** — CryoSPARC automation worker script.
+**`01_CRISP_run/ (root)`**
+
+
+CryoSPARC automation worker script (`cryo_spark_worker.ipynb`) — runs at the repo root, outside the `notebook/` subfolder.
 
 <details>
 <summary>1 notebook(s) — click to expand</summary>
@@ -89,7 +94,10 @@ Mostly mirrors CRISP on GitHub. The difference is in the notebooks: this copy ad
 
 <a id="01-crisp-run-notebook"></a>
 
-**`01_CRISP_run/notebook/`** — Active notebook templates.
+**`01_CRISP_run/notebook/`**
+
+
+The active, currently-used notebook templates for this working copy.
 
 <details>
 <summary>17 notebook(s) — click to expand</summary>
@@ -116,7 +124,10 @@ Mostly mirrors CRISP on GitHub. The difference is in the notebooks: this copy ad
 
 <a id="01-crisp-run-notebook-dep"></a>
 
-**`01_CRISP_run/notebook/dep/`** — Deprecated/superseded notebook versions.
+**`01_CRISP_run/notebook/dep/`**
+
+
+Deprecated/superseded versions of the notebook templates above, kept for reference.
 
 <details>
 <summary>7 notebook(s) — click to expand</summary>
@@ -133,7 +144,10 @@ Mostly mirrors CRISP on GitHub. The difference is in the notebooks: this copy ad
 
 <a id="01-crisp-run-simulation"></a>
 
-**`01_CRISP_run/simulation/`** — Micrograph simulation notebooks.
+**`01_CRISP_run/simulation/`**
+
+
+Micrograph simulation notebooks — used to generate synthetic test data independent of the real EMPIAR datasets.
 
 <details>
 <summary>2 notebook(s) — click to expand</summary>
@@ -149,18 +163,16 @@ Mostly mirrors CRISP on GitHub. The difference is in the notebooks: this copy ad
 <a id="test-on-10017"></a>
 ## `Test_on_10017/Test_0_9-8_9-30_EM_10017/` — Main Test Campaign
 
-All work on EMPIAR-10017, date range Sep 8 -> Sep 30. Sub-sections below, in pipeline order: tutorial/setup material first, then early single attempts, then the two training-source variant series, then the main experiment directory.
-
-<a id="software-topaz-tutorial"></a>
-<a id="topaz-tutorial-files"></a>
-
-
-</details>
+All work on EMPIAR-10017, date range Sep 8 -> Sep 30. The name itself encodes the date span of the run. Sub-sections below, in pipeline order: early single attempts first, then the two training-source variant series, then the main experiment directory.
 
 <a id="tpzd-default-output"></a>
 <a id="tpzd-default-files"></a>
 
-**`TpzD_default_output/Archieve_CDCRF/TpzD_default_code_archive/`** — First try of the Topaz-default pipeline.
+**`TpzD_default_output/Archieve_CDCRF/TpzD_default_code_archive/`**
+
+**Status:** First Topaz attempt · **Keywords:** topaz, default  
+
+The first try of the Topaz-default pipeline — running Topaz with its out-of-the-box default settings before any project-specific tuning.
 
 <details>
 <summary>3 notebook(s) — click to expand</summary>
@@ -174,7 +186,11 @@ All work on EMPIAR-10017, date range Sep 8 -> Sep 30. Sub-sections below, in pip
 <a id="dep"></a>
 <a id="dep-files"></a>
 
-**`_dep/TpzD_output/final log/Code Archive/`** — Deprecated material from the first Topaz-Denoise output attempt.
+**`_dep/TpzD_output/final log/Code Archive/`**
+
+**Status:** Retired · **Keywords:** deprecated  
+
+Deprecated content — retired material from the first Topaz-Denoise output attempt, kept for the record but superseded by later runs.
 
 <details>
 <summary>9 notebook(s) — click to expand</summary>
@@ -197,7 +213,9 @@ All work on EMPIAR-10017, date range Sep 8 -> Sep 30. Sub-sections below, in pip
 <a id="time-test-output-tpz"></a>
 ### `time_test_output_tpz/` — Topaz-Denoise -> Train-Model Series
 
-Trains/tests the model using Topaz-denoised micrographs as input. Internal naming follows the same logic as `raw_user_output_rst` below.
+**Keywords:** topaz denoise, trained model, timing · **Status:** Topaz Denoise to train model
+
+Directory for testing the trained model with **Topaz Denoise**. Internal naming follows the same logic as `raw_user_output_rst` below — each sub-folder mirrors one of that directory's experiment types, just run on the Topaz-denoised track instead of the raw track.
 
 ```text
 ├── code archive/                                 # Baseline code archive
@@ -214,7 +232,10 @@ Trains/tests the model using Topaz-denoised micrographs as input. Internal namin
 
 <a id="tpz-base"></a>
 
-**`time_test_output_tpz/code archive/`** — Baseline code archive for this series.
+**`time_test_output_tpz/code archive/`**
+
+
+Baseline code archive for this series.
 
 <details>
 <summary>6 notebook(s) — click to expand</summary>
@@ -230,7 +251,10 @@ Trains/tests the model using Topaz-denoised micrographs as input. Internal namin
 
 <a id="tpz-02-50-extend-100-crf"></a>
 
-**`time_test_output_tpz/02_50_extend_100_crf_rst/code_archieve/`** — CRF epoch-extension test (50->100) on the Topaz-denoise track.
+**`time_test_output_tpz/02_50_extend_100_crf_rst/code_archieve/`**
+
+
+CRF epoch-extension test (50->100) on the Topaz-denoise track.
 
 <details>
 <summary>6 notebook(s) — click to expand</summary>
@@ -246,7 +270,10 @@ Trains/tests the model using Topaz-denoised micrographs as input. Internal namin
 
 <a id="tpz-results-50-crf"></a>
 
-**`time_test_output_tpz/results_50_CRF/code_archieve/`** — CRF, EPOCHS=50.
+**`time_test_output_tpz/results_50_CRF/code_archieve/`**
+
+
+CRF, EPOCHS=50.
 
 <details>
 <summary>6 notebook(s) — click to expand</summary>
@@ -262,7 +289,10 @@ Trains/tests the model using Topaz-denoised micrographs as input. Internal namin
 
 <a id="tpz-results-100-crf"></a>
 
-**`time_test_output_tpz/results_100_CRF/code_archieve/`** — CRF, EPOCHS=100.
+**`time_test_output_tpz/results_100_CRF/code_archieve/`**
+
+
+CRF, EPOCHS=100.
 
 <details>
 <summary>6 notebook(s) — click to expand</summary>
@@ -278,7 +308,10 @@ Trains/tests the model using Topaz-denoised micrographs as input. Internal namin
 
 <a id="tpz-results-100-espatience-50-crf"></a>
 
-**`time_test_output_tpz/results_100_ESPatience_50_CRF/code_archieve/`** — EPOCHS=100, early-stop patience=50.
+**`time_test_output_tpz/results_100_ESPatience_50_CRF/code_archieve/`**
+
+
+EPOCHS=100, early-stop patience=50.
 
 <details>
 <summary>6 notebook(s) — click to expand</summary>
@@ -294,7 +327,10 @@ Trains/tests the model using Topaz-denoised micrographs as input. Internal namin
 
 <a id="tpz-weight-test-tpz"></a>
 
-**`time_test_output_tpz/weight_test_tpz/code_archive/`** — W1/W2 kernel-weight study on the Topaz-denoise track.
+**`time_test_output_tpz/weight_test_tpz/code_archive/`**
+
+
+W1/W2 kernel-weight study on the Topaz-denoise track.
 
 <details>
 <summary>7 notebook(s) — click to expand</summary>
@@ -311,7 +347,10 @@ Trains/tests the model using Topaz-denoised micrographs as input. Internal namin
 
 <a id="tpz-weight-test-tpz-50"></a>
 
-**`time_test_output_tpz/weight_test_tpz_50/code_archive/`** — W1/W2 kernel-weight study variant (50).
+**`time_test_output_tpz/weight_test_tpz_50/code_archive/`**
+
+
+W1/W2 kernel-weight study variant (50).
 
 <details>
 <summary>7 notebook(s) — click to expand</summary>
@@ -328,7 +367,10 @@ Trains/tests the model using Topaz-denoised micrographs as input. Internal namin
 
 <a id="tpz-weight-multi-1"></a>
 
-**`time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_1/code_archive/`** — Multi-weight sweep, run 1.
+**`time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_1/code_archive/`**
+
+
+Multi-weight sweep, run 1.
 
 <details>
 <summary>8 notebook(s) — click to expand</summary>
@@ -346,7 +388,10 @@ Trains/tests the model using Topaz-denoised micrographs as input. Internal namin
 
 <a id="tpz-weight-multi-2"></a>
 
-**`time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/`** — Multi-weight sweep, run 2.
+**`time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/`**
+
+
+Multi-weight sweep, run 2.
 
 <details>
 <summary>8 notebook(s) — click to expand</summary>
@@ -364,7 +409,10 @@ Trains/tests the model using Topaz-denoised micrographs as input. Internal namin
 
 <a id="tpz-weight-multi-3"></a>
 
-**`time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/`** — Multi-weight sweep, run 3.
+**`time_test_output_tpz/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/`**
+
+
+Multi-weight sweep, run 3.
 
 <details>
 <summary>8 notebook(s) — click to expand</summary>
@@ -386,7 +434,9 @@ Trains/tests the model using Topaz-denoised micrographs as input. Internal namin
 <a id="c-csn-d-float-u-output"></a>
 ### `C_CSN_D_float_u_output/` — Conventional-Denoise -> Train-Model Series
 
-Same idea as the Topaz-denoise series above, but using conventional denoising (CryoSegNet-based) as the reference map — the more expensive reference run.
+**Keywords:** conventional denoise, reference map, segmentation · **Status:** Conventional Denoise to train model
+
+Directory for testing the trained model with a **conventional denoising method** used as the reference map (for the `01`/`02` notebook model training & segmentation). This is the expensive reference run — conventional denoising is costlier than Topaz Denoise, which is why it gets its own dedicated comparison series. Internal naming follows `raw_user_output_rst`.
 
 ```text
 ├── C_CSN_D_float_u_code_archive/                 # Baseline code archive
@@ -396,7 +446,10 @@ Same idea as the Topaz-denoise series above, but using conventional denoising (C
 
 <a id="csn-base"></a>
 
-**`C_CSN_D_float_u_output/C_CSN_D_float_u_code_archive/`** — Baseline code archive for this series.
+**`C_CSN_D_float_u_output/C_CSN_D_float_u_code_archive/`**
+
+
+Baseline code archive for this series.
 
 <details>
 <summary>5 notebook(s) — click to expand</summary>
@@ -411,7 +464,10 @@ Same idea as the Topaz-denoise series above, but using conventional denoising (C
 
 <a id="csn-results-50-crf"></a>
 
-**`C_CSN_D_float_u_output/results_50_CRF/code_archieve/`** — CRF, EPOCHS=50.
+**`C_CSN_D_float_u_output/results_50_CRF/code_archieve/`**
+
+
+CRF, EPOCHS=50.
 
 <details>
 <summary>5 notebook(s) — click to expand</summary>
@@ -426,7 +482,10 @@ Same idea as the Topaz-denoise series above, but using conventional denoising (C
 
 <a id="csn-results-100-crf"></a>
 
-**`C_CSN_D_float_u_output/results_100_CRF/code_archive/`** — CRF, EPOCHS=100.
+**`C_CSN_D_float_u_output/results_100_CRF/code_archive/`**
+
+
+CRF, EPOCHS=100.
 
 <details>
 <summary>5 notebook(s) — click to expand</summary>
@@ -445,7 +504,9 @@ Same idea as the Topaz-denoise series above, but using conventional denoising (C
 <a id="raw-user-output-rst"></a>
 ### `raw_user_output_rst/` ★ — Main Experiment Directory
 
-The bulk of the experiments, on the raw (non-denoised) micrograph track. Grouped by theme; click any line to jump to that experiment's notebooks.
+**Keywords:** main, experiments, raw output · **Status:** ★ Main directory
+
+The main experiment directory — holds the raw output (micrograph **without** denoising) and the bulk of every experiment run. Each `results_*` / `weight_*` folder is one experiment and (per the project convention) contains its own `code_archive/` + `10017/` sub-folders. Grouped by theme below; click any line to jump to that experiment's notebooks.
 
 ```text
 ├── raw_user_output_rst_code_archive/             # Baseline — first test, raw micrograph
@@ -483,7 +544,11 @@ The bulk of the experiments, on the raw (non-denoised) micrograph track. Grouped
 
 <a id="rst-baseline"></a>
 
-**`raw_user_output_rst/raw_user_output_rst_code_archive/`** — First test of the code, on the raw micrograph.
+**`raw_user_output_rst/raw_user_output_rst_code_archive/`**
+
+**Status:** Baseline — first run · **Keywords:** first test, raw micrograph  
+
+The first test of the code, run on the raw micrograph.
 
 <details>
 <summary>5 notebook(s) — click to expand</summary>
@@ -501,7 +566,11 @@ The bulk of the experiments, on the raw (non-denoised) micrograph track. Grouped
 
 <a id="rst-weight-test-raw"></a>
 
-**`raw_user_output_rst/weight_test_rst_raw/code_archive/`** — W1/W2 kernel weight test (raw).
+**`raw_user_output_rst/weight_test_rst_raw/code_archive/`**
+
+**Status:** Weight study · **Keywords:** w1, w2, kernel weights, pairwise potential  
+
+Tests examining the weights **W1** and **W2** for the kernel used in the pairwise potentials (raw-track variant).
 
 <details>
 <summary>7 notebook(s) — click to expand</summary>
@@ -518,7 +587,11 @@ The bulk of the experiments, on the raw (non-denoised) micrograph track. Grouped
 
 <a id="rst-weight-test"></a>
 
-**`raw_user_output_rst/weight_test_rst/code_archive/`** — W1/W2 kernel weight test.
+**`raw_user_output_rst/weight_test_rst/code_archive/`**
+
+**Status:** Weight study · **Keywords:** w1, w2, kernel weights, pairwise potential  
+
+Tests examining the weights **W1** and **W2** for the kernel used in the pairwise potentials.
 
 <details>
 <summary>8 notebook(s) — click to expand</summary>
@@ -536,7 +609,11 @@ The bulk of the experiments, on the raw (non-denoised) micrograph track. Grouped
 
 <a id="rst-weight-multi-1"></a>
 
-**`raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_1/code_archive/`** — Multi-weight sweep, run 1.
+**`raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_1/code_archive/`**
+
+**Status:** Weight experiment try triple · **Keywords:** w1, w2, experiment on weight
+
+Multi Experiment tried extra trpple times of the W1/W2 - run 1.
 
 <details>
 <summary>3 notebook(s) — click to expand</summary>
@@ -549,7 +626,11 @@ The bulk of the experiments, on the raw (non-denoised) micrograph track. Grouped
 
 <a id="rst-weight-multi-2"></a>
 
-**`raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/`** — Multi-weight sweep, run 2.
+**`raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_2/code_archive/`**
+
+**Status:** Weight experiment try triple · **Keywords:** w1, w2, experiment on weight
+
+Multi Experiment tried extra trpple times of the W1/W2 - run 2.
 
 <details>
 <summary>4 notebook(s) — click to expand</summary>
@@ -563,7 +644,11 @@ The bulk of the experiments, on the raw (non-denoised) micrograph track. Grouped
 
 <a id="rst-weight-multi-3"></a>
 
-**`raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/`** — Multi-weight sweep, run 3.
+**`raw_user_output_rst/WEIGHT_MULTIPLE_TEST/rst_3/code_archive/`**
+
+**Status:** Weight experiment try triple · **Keywords:** w1, w2, experiment on weight
+
+Multi Experiment tried extra trpple times of the W1/W2 - run 3.
 
 <details>
 <summary>8 notebook(s) — click to expand</summary>
@@ -581,7 +666,15 @@ The bulk of the experiments, on the raw (non-denoised) micrograph track. Grouped
 
 <a id="rst-denoise-reference-crf"></a>
 
-**`raw_user_output_rst/results_with_denoise_reference_CRF/code_archive/`** — Uses the denoised micrograph as the bilateral-kernel reference (I_i, I_j) in the CRF pairwise potential.
+**`raw_user_output_rst/results_with_denoise_reference_CRF/code_archive/`**
+
+**Status:** Kernel-reference test · **Keywords:** denoised reference, bilateral kernel, CRF  
+
+Test using the **denoised micrograph** as the bilateral-kernel reference (`I_i`, `I_j`) in the CRF pairwise potential:
+
+```
+k(f_i, f_j) = w1·exp( −‖P_i−P_j‖² / 2σ1² − ‖I_i−I_j‖² / 2σ2² ) + w2·exp( −‖P_i−P_j‖² / 2σ3² )
+```
 
 <details>
 <summary>7 notebook(s) — click to expand</summary>
@@ -601,7 +694,11 @@ The bulk of the experiments, on the raw (non-denoised) micrograph track. Grouped
 
 <a id="rst-results-50-crf"></a>
 
-**`raw_user_output_rst/results_50_CRF/code_archive/`** — CRF, EPOCHS=50 (notebook 01).
+**`raw_user_output_rst/results_50_CRF/code_archive/`**
+
+**Status:** Hyperparam: epochs · **Keywords:** CRF, EPOCHS=50, notebook 01  
+
+Use **CRF** instead of CD-CRF; hyperparameter `EPOCHS = 50` (for notebook `01`).
 
 <details>
 <summary>5 notebook(s) — click to expand</summary>
@@ -616,7 +713,11 @@ The bulk of the experiments, on the raw (non-denoised) micrograph track. Grouped
 
 <a id="rst-results-100-crf"></a>
 
-**`raw_user_output_rst/results_100_CRF/code_archive/`** — CRF, EPOCHS=100.
+**`raw_user_output_rst/results_100_CRF/code_archive/`**
+
+**Status:** Hyperparam: epochs · **Keywords:** CRF, EPOCHS=100  
+
+Same as `results_50_CRF/`, but `EPOCHS = 100`.
 
 <details>
 <summary>5 notebook(s) — click to expand</summary>
@@ -631,7 +732,11 @@ The bulk of the experiments, on the raw (non-denoised) micrograph track. Grouped
 
 <a id="rst-results-100-espatience-50-crf"></a>
 
-**`raw_user_output_rst/results_100_ESPatience_50_CRF/code_archive/`** — EPOCHS=100, ESPatience=50 (notebook 02 early-stop tuning).
+**`raw_user_output_rst/results_100_ESPatience_50_CRF/code_archive/`**
+
+**Status:** Hyperparam: patience · **Keywords:** CRF, EPOCHS=100, ESPatience=50, early stop  
+
+`EPOCHS = 100` (notebook `01`) and `ESPatience = 50` (for notebook `02` training). **Motivation:** the model converged fast and stopped improving for many steps, so early-stop patience was raised to avoid stopping too soon — later found it was fine for `02` to converge fast and stop improving in a short while.
 
 <details>
 <summary>5 notebook(s) — click to expand</summary>
@@ -649,7 +754,11 @@ The bulk of the experiments, on the raw (non-denoised) micrograph track. Grouped
 
 <a id="rst-watershed-test"></a>
 
-**`raw_user_output_rst/results_watershed_test/code_archive/`** — **Deprecated** — first watershed experiment (good F1/mAP). Settled on feeding the Distance-Transform map into watershed.
+**`raw_user_output_rst/results_watershed_test/code_archive/`**
+
+**Status:** Deprecated — strong F1/mAP · **Keywords:** watershed, distance transform, DT map, post-processing  
+
+First experiment using watershed as the post-processing algorithm (now **deprecated**), but F1 and mAP were good compared with other algorithms. Settled on feeding the **Distance-Transform map** into the watershed: the first pixel where prob > 0.5 (the boundary) is set to a value, a pixel 2px from the boundary gets 2, the particle centre is expected near the centre — then watershed runs on the DT map.
 
 <details>
 <summary>10 notebook(s) — click to expand</summary>
@@ -669,7 +778,11 @@ The bulk of the experiments, on the raw (non-denoised) micrograph track. Grouped
 
 <a id="rst-watershed-no-dt"></a>
 
-**`raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/`** — **Deprecated** — watershed without the Distance-Transform step.
+**`raw_user_output_rst/_Deprecated/results_watershed_no_DT/code_archive/`**
+
+**Status:** Deprecated · **Keywords:** watershed, no distance transform, ablation  
+
+Watershed run **without** the Distance-Transform step — an ablation to confirm the DT map (introduced in `results_watershed_test/` above) is actually contributing.
 
 <details>
 <summary>17 notebook(s) — click to expand</summary>
@@ -696,7 +809,11 @@ The bulk of the experiments, on the raw (non-denoised) micrograph track. Grouped
 
 <a id="rst-watershed-mix-dt"></a>
 
-**`raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/`** — **Deprecated** — hybrid α·probability + β·DT scoring (the "Mix_prob/Mix_DT" variant).
+**`raw_user_output_rst/_Deprecated/results_watershed_mix_DT_model_prob_map/code_archive/`**
+
+**Status:** Deprecated · **Keywords:** hybrid score, mix probability+DT, solidity, aspect ratio  
+
+Hybrid scoring variant: combines α·probability + β·Distance-Transform into one score instead of using the DT map alone, filtered by hard solidity + aspect-ratio cutoffs instead of MAD.
 
 <details>
 <summary>17 notebook(s) — click to expand</summary>
@@ -723,7 +840,11 @@ The bulk of the experiments, on the raw (non-denoised) micrograph track. Grouped
 
 <a id="rst-watershed-malha"></a>
 
-**`raw_user_output_rst/results_watershed_malha/code_archive/`** — **Deprecated** — Mahalanobis distance applied to shape metrics + threshold test.
+**`raw_user_output_rst/results_watershed_malha/code_archive/`**
+
+**Status:** Deprecated · **Keywords:** mahalanobis, shape metrics, threshold  
+
+Apply **Mahalanobis** distance transform to the shape metrics and apply a threshold test. **Deprecated.**
 
 <details>
 <summary>10 notebook(s) — click to expand</summary>
@@ -743,7 +864,11 @@ The bulk of the experiments, on the raw (non-denoised) micrograph track. Grouped
 
 <a id="rst-watershed-indiv-test"></a>
 
-**`raw_user_output_rst/results_watershed_indiv_test/code_archive/`** — Threshold study — how F1/mAP change as shape-metric thresholds are added/removed.
+**`raw_user_output_rst/results_watershed_indiv_test/code_archive/`**
+
+**Status:** Threshold study · **Keywords:** threshold, area, F1, mAP  
+
+Test how **F1 and mAP change under different thresholds**: removing the Area (and other shape-metric) thresholds raises F1; adding more thresholds lowers F1 a little while raising mAP a little.
 
 <details>
 <summary>12 notebook(s) — click to expand</summary>
@@ -765,7 +890,11 @@ The bulk of the experiments, on the raw (non-denoised) micrograph track. Grouped
 
 <a id="rst-watershed-clustering"></a>
 
-**`raw_user_output_rst/results_watershed_clustering/code_archive/`** — Exploratory — clustering on shape metrics; led to the angle-relation insight.
+**`raw_user_output_rst/results_watershed_clustering/code_archive/`**
+
+**Status:** Exploratory — led to angle insight · **Keywords:** clustering, shape metrics, angle, intensity  
+
+**Clustering on shape metrics** to separate groups; particles of the same group are stacked by mean intensity and forced to the same angle. Observed 1–2 groups that look like noise or sit between two particles → shape metrics may relate to particle angle, useful for filtering out spurious centres that actually fall between two particles.
 
 <details>
 <summary>13 notebook(s) — click to expand</summary>
@@ -788,7 +917,11 @@ The bulk of the experiments, on the raw (non-denoised) micrograph track. Grouped
 
 <a id="rst-watershed-angles"></a>
 
-**`raw_user_output_rst/results_watershed_angles/code_archive/`** — ★ **Settled / current standard.** Filters with Area + circularity (MAD); records Area, circularity, eccentricity, solidity, Hu moments; runs angle statistics.
+**`raw_user_output_rst/results_watershed_angles/code_archive/`**
+
+**Status:** ★ Settled — current standard · **Keywords:** area, circularity, MAD, eccentricity, solidity, Hu moments, angles  
+
+The **fixed/settled structure**: filter particles using Area + circularity with MAD, record Area, circularity, eccentricity, solidity, and Hu moments (1st/2nd/3rd), then run statistical tests on the relation between angles and these metrics.
 
 <details open>
 <summary>15 notebook(s) — click to expand</summary>
@@ -813,7 +946,11 @@ The bulk of the experiments, on the raw (non-denoised) micrograph track. Grouped
 
 <a id="rst-watershed-circularity-no-mad"></a>
 
-**`raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/`** — Same as `results_watershed_angles` but **without** the MAD filter — isolates the angle/shape-metric relationship.
+**`raw_user_output_rst/results_watershed_circularity_NO_MAD/code_archive/`**
+
+**Status:** results_watershed_angles/ + did not use the shape metric to filter · **Keywords:** circularity, no MAD, angle relation  
+
+Same as `results_watershed_angles/`, but **stop filtering with circularity + MAD** (Median Absolute Deviation) to observe more of the relation between shape metrics and the angle of the particles on the micrograph.
 
 <details>
 <summary>17 notebook(s) — click to expand</summary>
@@ -840,7 +977,11 @@ The bulk of the experiments, on the raw (non-denoised) micrograph track. Grouped
 
 <a id="rst-diff-post-processing-circularity-mad"></a>
 
-**`raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/`** — Circularity+MAD filter applied to a **different** (non-watershed) postprocessing algorithm — performed worse.
+**`raw_user_output_rst/results_diff_post_processing_but_circularity_MAD/code_archive/`**
+
+**Status:** Worse than watershed · **Keywords:** circularity, MAD, other post-processing  
+
+Apply the circularity + MAD filtering to a **different post-processing algorithm** (not watershed). Result was **not** as good as watershed — both F1 and mAP dropped after filtering.
 
 <details>
 <summary>17 notebook(s) — click to expand</summary>
@@ -867,7 +1008,11 @@ The bulk of the experiments, on the raw (non-denoised) micrograph track. Grouped
 
 <a id="rst-watershed-with-01-model-map"></a>
 
-**`raw_user_output_rst/results_watershed_with_01_model_map/code_archive/`** — Same as `results_watershed_angles` but using the **pre-CRF** (notebook 01) model — found no big difference vs. CRF.
+**`raw_user_output_rst/results_watershed_with_01_model_map/code_archive/`**
+
+**Status:** Comparison CRF vs no-CRF (no big diff) · **Keywords:** notebook 01 model, no CRF finetune, comparison  
+
+Same setup as `results_watershed_angles/`, but using the model from Colab notebook `01` — the model **without** CRF fine-tuning. Found **no big difference** in the final result between the model with vs. without CRF.
 
 <details>
 <summary>17 notebook(s) — click to expand</summary>
@@ -894,3 +1039,13 @@ The bulk of the experiments, on the raw (non-denoised) micrograph track. Grouped
 
 
 ---
+
+## Notes
+
+- Greek-letter characters in filenames (α, β, γ, ζ, Δ, κ) are URL-encoded in the Colab links automatically — click-through works even though the raw text shows the encoded form in the URL.
+
+- Notebooks within every folder are sorted in pipeline order (00 → 06); files without a numeric prefix sort to the end of their folder.
+
+- Section jump-links use explicit anchor IDs (not GitHub's auto-generated heading slugs), so they work reliably even with special characters in headings.
+
+- For *why* each experiment exists (not just *where* its code is), cross-reference with `README_cryo_project_structure.md` and `metric_literature_review.md`.
